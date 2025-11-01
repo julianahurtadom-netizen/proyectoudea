@@ -16,8 +16,12 @@
 **Enlace competición (Kaggle):**  
 https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia  
 
+**Enlace vídeo "Segunda entrega":**  
+https://youtu.be/7OlDua2U3xU
+
 ---
 
-## Entrega 1
+## Entrega 2
 Contenido:
 - `01 - exploración.ipynb` — Exploración inicial del archivo `train.csv`.
+- `02 - preprocesado.ipynb` — Operaciones de limpieza y preprocesado de datos del archivo `train.csv`.
