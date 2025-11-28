@@ -20,7 +20,7 @@ https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colomb
 https://youtu.be/7OlDua2U3xU
 
 **Enlace vídeo "Última entrega":**
-
+https://www.youtube.com/watch?v=li9C8TOgPKE
 
 ---
 
